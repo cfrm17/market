@@ -130,5 +130,9 @@ t_12={360*(Y_2-Y_1 )+30*(M_2-M_1 )+(D_2-D_2)}/360
 
 
 
-You can find more details at
+References:
+
 https://finpricing.com/lib/IrCurve.html
+
+https://bitbucket.org/cfrm17/market/downloads/market-10.pdf
+
